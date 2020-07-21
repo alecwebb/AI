@@ -1,0 +1,19 @@
+Script started on 2018-09-17 15:23:30-0400
+]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_583_HW1/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_583_HW1/src[00m$ python3 eight_puzzle_hw1.py 
+Eight Puzzle Run with starting state:  [4, 0, 1, 8, 3, 2, 5, 7, 6]
+-------------------------------------
+A* with Manhattan Heuristic
+Solution: ['RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'DOWN']
+Nodes Expanded:  90
+---------------------------
+A* with # of misplaced tiles Heuristic
+Solution: ['RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'DOWN']
+Nodes Expanded:  277
+--------------------------
+Iterative Deepening Search
+Solution: ['RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'DOWN']
+Nodes Expanded:  1660779
+]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_583_HW1/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_583_HW1/src[00m$ exit
+exit
+
+Script done on 2018-09-17 15:23:46-0400

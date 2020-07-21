@@ -1,0 +1,419 @@
+Script started on 2018-09-17 15:19:21-0400
+]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_583_HW1/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_583_HW1/src[00m$ pyexit[2Pps./eclipse ls[Kcd eclipse/ls[Kcd java-photon/ls[Kcd eclipsels[Kclear[3Plscd ..[3Plscd ..[3Plsclear[3Plscd eclipsels[Kcd java-photon/ls[Kcd eclipse/ls[K./eclipse ps[Kexit[2Ppyexit[2Pps./eclipse ls[K./eclipse ps[Kexit[2Ppython3 2_jug_hw1.py 
+List of random coprime jug capacities to be solved: [(5, 3), (7, 4), (5, 4), (5, 8), (7, 3), (8, 3), (7, 6), (3, 4), (6, 5), (7, 5)]
+-----------------------------------------------------------------------------------------------------
+Find Solutions for the Goals from 1...max(n,m) in Either Jug using IDS for capacities: ( 5 , 3 )
+-----------------------------------------------------------------------------------------------------
+Solution for the goal: 1
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 3)
+(3, 0)
+(3, 3)
+(5, 1)
+Solution for the goal: 2
+['Fill0', 'Pour 0 into 1']
+(5, 0)
+(2, 3)
+Solution for the goal: 3
+['Fill1']
+(0, 3)
+Solution for the goal: 4
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(5, 0)
+(2, 3)
+(2, 0)
+(0, 2)
+(5, 2)
+(4, 3)
+Solution for the goal: 5
+['Fill0']
+(5, 0)
+-----------------------------------------------------------------------------------------------------
+Find Solutions for the Goals from 1...max(n,m) in Either Jug using IDS for capacities: ( 7 , 4 )
+-----------------------------------------------------------------------------------------------------
+Solution for the goal: 1
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 4)
+(4, 0)
+(4, 4)
+(7, 1)
+Solution for the goal: 2
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1']
+(7, 0)
+(3, 4)
+(3, 0)
+(0, 3)
+(7, 3)
+(6, 4)
+(6, 0)
+(2, 4)
+Solution for the goal: 3
+['Fill0', 'Pour 0 into 1']
+(7, 0)
+(3, 4)
+Solution for the goal: 4
+['Fill1']
+(0, 4)
+Solution for the goal: 5
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0', 'Empty0', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 4)
+(4, 0)
+(4, 4)
+(7, 1)
+(0, 1)
+(1, 0)
+(1, 4)
+(5, 0)
+Solution for the goal: 6
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(7, 0)
+(3, 4)
+(3, 0)
+(0, 3)
+(7, 3)
+(6, 4)
+Solution for the goal: 7
+['Fill0']
+(7, 0)
+-----------------------------------------------------------------------------------------------------
+Find Solutions for the Goals from 1...max(n,m) in Either Jug using IDS for capacities: ( 5 , 4 )
+-----------------------------------------------------------------------------------------------------
+Solution for the goal: 1
+['Fill0', 'Pour 0 into 1']
+(5, 0)
+(1, 4)
+Solution for the goal: 2
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(5, 0)
+(1, 4)
+(1, 0)
+(0, 1)
+(5, 1)
+(2, 4)
+Solution for the goal: 3
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 4)
+(4, 0)
+(4, 4)
+(5, 3)
+Solution for the goal: 4
+['Fill1']
+(0, 4)
+Solution for the goal: 5
+['Fill0']
+(5, 0)
+-----------------------------------------------------------------------------------------------------
+Find Solutions for the Goals from 1...max(n,m) in Either Jug using IDS for capacities: ( 5 , 8 )
+-----------------------------------------------------------------------------------------------------
+Solution for the goal: 1
+['Fill1', 'Pour 1 into 0', 'Empty0', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0', 'Empty0', 'Pour 1 into 0']
+(0, 8)
+(5, 3)
+(0, 3)
+(3, 0)
+(3, 8)
+(5, 6)
+(0, 6)
+(5, 1)
+Solution for the goal: 2
+['Fill0', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(5, 0)
+(0, 5)
+(5, 5)
+(2, 8)
+Solution for the goal: 3
+['Fill1', 'Pour 1 into 0']
+(0, 8)
+(5, 3)
+Solution for the goal: 4
+['Fill0', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(5, 0)
+(0, 5)
+(5, 5)
+(2, 8)
+(2, 0)
+(0, 2)
+(5, 2)
+(0, 7)
+(5, 7)
+(4, 8)
+Solution for the goal: 5
+['Fill0']
+(5, 0)
+Solution for the goal: 6
+['Fill1', 'Pour 1 into 0', 'Empty0', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 8)
+(5, 3)
+(0, 3)
+(3, 0)
+(3, 8)
+(5, 6)
+Solution for the goal: 7
+['Fill0', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(5, 0)
+(0, 5)
+(5, 5)
+(2, 8)
+(2, 0)
+(0, 2)
+(5, 2)
+(0, 7)
+Solution for the goal: 8
+['Fill1']
+(0, 8)
+-----------------------------------------------------------------------------------------------------
+Find Solutions for the Goals from 1...max(n,m) in Either Jug using IDS for capacities: ( 7 , 3 )
+-----------------------------------------------------------------------------------------------------
+Solution for the goal: 1
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1']
+(7, 0)
+(4, 3)
+(4, 0)
+(1, 3)
+Solution for the goal: 2
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 3)
+(3, 0)
+(3, 3)
+(6, 0)
+(6, 3)
+(7, 2)
+Solution for the goal: 3
+['Fill1']
+(0, 3)
+Solution for the goal: 4
+['Fill0', 'Pour 0 into 1']
+(7, 0)
+(4, 3)
+Solution for the goal: 5
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(7, 0)
+(4, 3)
+(4, 0)
+(1, 3)
+(1, 0)
+(0, 1)
+(7, 1)
+(5, 3)
+Solution for the goal: 6
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 3)
+(3, 0)
+(3, 3)
+(6, 0)
+Solution for the goal: 7
+['Fill0']
+(7, 0)
+-----------------------------------------------------------------------------------------------------
+Find Solutions for the Goals from 1...max(n,m) in Either Jug using IDS for capacities: ( 8 , 3 )
+-----------------------------------------------------------------------------------------------------
+Solution for the goal: 1
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 3)
+(3, 0)
+(3, 3)
+(6, 0)
+(6, 3)
+(8, 1)
+Solution for the goal: 2
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1']
+(8, 0)
+(5, 3)
+(5, 0)
+(2, 3)
+Solution for the goal: 3
+['Fill1']
+(0, 3)
+Solution for the goal: 4
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1']
+(8, 0)
+(5, 3)
+(5, 0)
+(2, 3)
+(2, 0)
+(0, 2)
+(8, 2)
+(7, 3)
+(7, 0)
+(4, 3)
+Solution for the goal: 5
+['Fill0', 'Pour 0 into 1']
+(8, 0)
+(5, 3)
+Solution for the goal: 6
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 3)
+(3, 0)
+(3, 3)
+(6, 0)
+Solution for the goal: 7
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(8, 0)
+(5, 3)
+(5, 0)
+(2, 3)
+(2, 0)
+(0, 2)
+(8, 2)
+(7, 3)
+Solution for the goal: 8
+['Fill0']
+(8, 0)
+-----------------------------------------------------------------------------------------------------
+Find Solutions for the Goals from 1...max(n,m) in Either Jug using IDS for capacities: ( 7 , 6 )
+-----------------------------------------------------------------------------------------------------
+Solution for the goal: 1
+['Fill0', 'Pour 0 into 1']
+(7, 0)
+(1, 6)
+Solution for the goal: 2
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(7, 0)
+(1, 6)
+(1, 0)
+(0, 1)
+(7, 1)
+(2, 6)
+Solution for the goal: 3
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(7, 0)
+(1, 6)
+(1, 0)
+(0, 1)
+(7, 1)
+(2, 6)
+(2, 0)
+(0, 2)
+(7, 2)
+(3, 6)
+Solution for the goal: 4
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0', 'Empty0', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 6)
+(6, 0)
+(6, 6)
+(7, 5)
+(0, 5)
+(5, 0)
+(5, 6)
+(7, 4)
+Solution for the goal: 5
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 6)
+(6, 0)
+(6, 6)
+(7, 5)
+Solution for the goal: 6
+['Fill1']
+(0, 6)
+Solution for the goal: 7
+['Fill0']
+(7, 0)
+-----------------------------------------------------------------------------------------------------
+Find Solutions for the Goals from 1...max(n,m) in Either Jug using IDS for capacities: ( 3 , 4 )
+-----------------------------------------------------------------------------------------------------
+Solution for the goal: 1
+['Fill1', 'Pour 1 into 0']
+(0, 4)
+(3, 1)
+Solution for the goal: 2
+['Fill0', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(3, 0)
+(0, 3)
+(3, 3)
+(2, 4)
+Solution for the goal: 3
+['Fill0']
+(3, 0)
+Solution for the goal: 4
+['Fill1']
+(0, 4)
+-----------------------------------------------------------------------------------------------------
+Find Solutions for the Goals from 1...max(n,m) in Either Jug using IDS for capacities: ( 6 , 5 )
+-----------------------------------------------------------------------------------------------------
+Solution for the goal: 1
+['Fill0', 'Pour 0 into 1']
+(6, 0)
+(1, 5)
+Solution for the goal: 2
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(6, 0)
+(1, 5)
+(1, 0)
+(0, 1)
+(6, 1)
+(2, 5)
+Solution for the goal: 3
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0', 'Empty0', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 5)
+(5, 0)
+(5, 5)
+(6, 4)
+(0, 4)
+(4, 0)
+(4, 5)
+(6, 3)
+Solution for the goal: 4
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 5)
+(5, 0)
+(5, 5)
+(6, 4)
+Solution for the goal: 5
+['Fill1']
+(0, 5)
+Solution for the goal: 6
+['Fill0']
+(6, 0)
+-----------------------------------------------------------------------------------------------------
+Find Solutions for the Goals from 1...max(n,m) in Either Jug using IDS for capacities: ( 7 , 5 )
+-----------------------------------------------------------------------------------------------------
+Solution for the goal: 1
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0', 'Empty0', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 5)
+(5, 0)
+(5, 5)
+(7, 3)
+(0, 3)
+(3, 0)
+(3, 5)
+(7, 1)
+Solution for the goal: 2
+['Fill0', 'Pour 0 into 1']
+(7, 0)
+(2, 5)
+Solution for the goal: 3
+['Fill1', 'Pour 1 into 0', 'Fill1', 'Pour 1 into 0']
+(0, 5)
+(5, 0)
+(5, 5)
+(7, 3)
+Solution for the goal: 4
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(7, 0)
+(2, 5)
+(2, 0)
+(0, 2)
+(7, 2)
+(4, 5)
+Solution for the goal: 5
+['Fill1']
+(0, 5)
+Solution for the goal: 6
+['Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1', 'Empty1', 'Pour 0 into 1', 'Fill0', 'Pour 0 into 1']
+(7, 0)
+(2, 5)
+(2, 0)
+(0, 2)
+(7, 2)
+(4, 5)
+(4, 0)
+(0, 4)
+(7, 4)
+(6, 5)
+Solution for the goal: 7
+['Fill0']
+(7, 0)
+]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_583_HW1/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_583_HW1/src[00m$ exit
+exit
+
+Script done on 2018-09-17 15:19:54-0400
