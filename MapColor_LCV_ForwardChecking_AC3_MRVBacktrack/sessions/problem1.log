@@ -1,0 +1,78 @@
+Script started on 2018-10-22 15:38:14-0400
+]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_580_HW2/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_580_HW2/src[00m$ exitcleardas keyboard this thing  is pretty rediculous[A]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_580_HW2/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_580_HW2/src[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pexit[Kexitcleardas keyboard this thing  is pretty rediculous[A]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_580_HW2/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_580_HW2/src[00m$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Plscd AIgmu[4Plscd AI[K[1Plscd AI[3Plscd gmu[1PAI[3Plscd ..das keyboard this thing  is pretty rediculous[A]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_580_HW2/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_580_HW2/src[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pexit[Kpython3 csp_driver.py
+Solving Map Problems:
+---------------------------
+Backtracking using LCV for:
+---------------------------
+[Australia]
+-----------
+CSP: <csp.CSP object at 0x7f7092ca45c0> with assignment: {'SA': 'R', 'WA': 'G', 'NT': 'B', 'Q': 'G', 'NSW': 'B', 'V': 'G'}
+Number of Assignments 6
+--------
+[France]
+--------
+CSP: <csp.CSP object at 0x7f7092cb5748> with assignment: {'AL': 'R', 'LO': 'G', 'FC': 'B', 'AQ': 'R', 'MP': 'G', 'LI': 'B', 'PC': 'G', 'AU': 'R', 'CE': 'Y', 'BO': 'G', 'RA': 'Y', 'LR': 'B', 'IF': 'R', 'CA': 'Y', 'BR': 'R', 'NB': 'G', 'PL': 'B', 'PI': 'G', 'NH': 'B', 'PA': 'R', 'NO': 'R'}
+Number of Assignments 21
+-----
+[USA]
+-----
+CSP: <csp.CSP object at 0x7f70924f1dd8> with assignment: {'WA': 'R', 'OR': 'G', 'ID': 'B', 'NV': 'R', 'CA': 'B', 'AZ': 'G', 'UT': 'Y', 'MT': 'R', 'WY': 'G', 'CO': 'R', 'ND': 'G', 'SD': 'B', 'NE': 'Y', 'KA': 'G', 'OK': 'B', 'NM': 'G', 'TX': 'R', 'MN': 'R', 'IA': 'G', 'MO': 'R', 'AR': 'G', 'LA': 'B', 'WI': 'B', 'IL': 'Y', 'KY': 'G', 'TN': 'B', 'MS': 'R', 'MI': 'R', 'IN': 'B', 'OH': 'Y', 'AL': 'G', 'GA': 'R', 'FL': 'B', 'PA': 'R', 'WV': 'B', 'VA': 'R', 'NC': 'G', 'SC': 'B', 'NY': 'G', 'NJ': 'B', 'DE': 'G', 'MD': 'Y', 'DC': 'G', 'VT': 'R', 'MA': 'B', 'CT': 'R', 'NH': 'G', 'RI': 'G', 'ME': 'R'}
+Number of Assignments 49
+---------------------------
+Backtracking using MRV for:
+---------------------------
+[Australia]
+-----------
+CSP: <csp.CSP object at 0x7f70924f1e48> with assignment: {'V': 'R', 'NSW': 'G', 'SA': 'B', 'WA': 'R', 'Q': 'R', 'NT': 'G'}
+Number of Assignments 6
+--------
+[France]
+--------
+CSP: <csp.CSP object at 0x7f7092490048> with assignment: {'LR': 'R', 'PL': 'R', 'PC': 'G', 'AU': 'G', 'NH': 'R', 'CE': 'B', 'BR': 'G', 'PI': 'G', 'BO': 'R', 'RA': 'B', 'IF': 'Y', 'CA': 'B', 'LI': 'R', 'AQ': 'B', 'FC': 'G', 'MP': 'Y', 'LO': 'R', 'AL': 'B', 'PA': 'G', 'NO': 'R', 'NB': 'Y'}
+Number of Assignments 21
+-----
+[USA]
+-----
+CSP: <csp.CSP object at 0x7f7092494f98> with assignment: {'NJ': 'R', 'NV': 'R', 'LA': 'R', 'UT': 'G', 'MS': 'G', 'IA': 'R', 'WI': 'G', 'TX': 'G', 'MT': 'R', 'FL': 'R', 'SD': 'G', 'AZ': 'B', 'ME': 'R', 'CA': 'G', 'IN': 'R', 'NC': 'R', 'NE': 'B', 'VA': 'G', 'ID': 'B', 'NH': 'G', 'MI': 'B', 'TN': 'B', 'ND': 'B', 'DC': 'R', 'GA': 'G', 'AR': 'Y', 'AL': 'Y', 'WY': 'Y', 'OK': 'B', 'PA': 'Y', 'MA': 'B', 'WV': 'R', 'NY': 'G', 'OH': 'G', 'MD': 'B', 'SC': 'Y', 'CO': 'R', 'NM': 'Y', 'IL': 'B', 'MO': 'G', 'WA': 'R', 'MN': 'Y', 'OR': 'Y', 'KA': 'Y', 'VT': 'Y', 'DE': 'G', 'KY': 'Y', 'CT': 'R', 'RI': 'G'}
+Number of Assignments 7004
+---------------------------
+Constraint propagation using AC3 for:
+---------------------------
+[Australia]
+-----------
+CSP: <csp.CSP object at 0x7f70924f1f60> with assignment: {'SA': 'R', 'WA': 'G', 'NT': 'B', 'Q': 'G', 'NSW': 'B', 'V': 'G'}
+Number of Assignments 6
+--------
+[France]
+--------
+CSP: <csp.CSP object at 0x7f7092cb5828> with assignment: {'AL': 'R', 'LO': 'G', 'FC': 'B', 'AQ': 'R', 'MP': 'G', 'LI': 'B', 'PC': 'G', 'AU': 'R', 'CE': 'Y', 'BO': 'G', 'RA': 'Y', 'LR': 'B', 'IF': 'R', 'CA': 'Y', 'BR': 'R', 'NB': 'G', 'PL': 'B', 'PI': 'G', 'NH': 'B', 'PA': 'R', 'NO': 'R'}
+Number of Assignments 21
+-----
+[USA]
+-----
+CSP: <csp.CSP object at 0x7f7092496278> with assignment: {'WA': 'R', 'OR': 'G', 'ID': 'B', 'NV': 'R', 'CA': 'B', 'AZ': 'G', 'UT': 'Y', 'MT': 'R', 'WY': 'G', 'CO': 'R', 'ND': 'G', 'SD': 'B', 'NE': 'Y', 'KA': 'G', 'OK': 'B', 'NM': 'G', 'TX': 'R', 'MN': 'R', 'IA': 'G', 'MO': 'R', 'AR': 'G', 'LA': 'B', 'WI': 'B', 'IL': 'Y', 'KY': 'G', 'TN': 'B', 'MS': 'R', 'MI': 'R', 'IN': 'B', 'OH': 'Y', 'AL': 'G', 'GA': 'R', 'FL': 'B', 'PA': 'R', 'WV': 'B', 'VA': 'R', 'NC': 'G', 'SC': 'B', 'NY': 'G', 'NJ': 'B', 'DE': 'G', 'MD': 'Y', 'DC': 'G', 'VT': 'R', 'MA': 'B', 'CT': 'R', 'NH': 'G', 'RI': 'G', 'ME': 'R'}
+Number of Assignments 49
+---------------------------
+Forward Checking with Arc Consistency for:
+---------------------------
+[Australia]
+-----------
+CSP: <csp.CSP object at 0x7f7092496a90> with assignment: {'SA': 'R', 'WA': 'G', 'NT': 'B', 'Q': 'G', 'NSW': 'B', 'V': 'G'}
+Number of Assignments 6
+--------
+[France]
+--------
+CSP: <csp.CSP object at 0x7f7092496048> with assignment: {'AL': 'R', 'LO': 'G', 'FC': 'B', 'AQ': 'R', 'MP': 'G', 'LI': 'B', 'PC': 'G', 'AU': 'R', 'CE': 'Y', 'BO': 'G', 'RA': 'Y', 'LR': 'B', 'IF': 'R', 'CA': 'Y', 'BR': 'R', 'NB': 'G', 'PL': 'B', 'PI': 'G', 'NH': 'B', 'PA': 'R', 'NO': 'R'}
+Number of Assignments 21
+-----
+[USA]
+-----
+CSP: <csp.CSP object at 0x7f7092496b00> with assignment: {'WA': 'R', 'OR': 'G', 'ID': 'B', 'NV': 'R', 'CA': 'B', 'AZ': 'G', 'UT': 'Y', 'MT': 'R', 'WY': 'G', 'CO': 'R', 'ND': 'G', 'SD': 'B', 'NE': 'Y', 'KA': 'G', 'OK': 'B', 'NM': 'G', 'TX': 'R', 'MN': 'R', 'IA': 'G', 'MO': 'R', 'AR': 'G', 'LA': 'B', 'WI': 'B', 'IL': 'Y', 'KY': 'G', 'TN': 'B', 'MS': 'R', 'MI': 'R', 'IN': 'B', 'OH': 'Y', 'AL': 'G', 'GA': 'R', 'FL': 'B', 'PA': 'R', 'WV': 'B', 'VA': 'R', 'NC': 'G', 'SC': 'B', 'NY': 'G', 'NJ': 'B', 'DE': 'G', 'MD': 'Y', 'DC': 'G', 'VT': 'R', 'MA': 'B', 'CT': 'R', 'NH': 'G', 'RI': 'G', 'ME': 'R'}
+Number of Assignments 49
+]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_580_HW2/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_580_HW2/src[00m$ exit
+exit
+
+Script done on 2018-10-22 15:38:32-0400

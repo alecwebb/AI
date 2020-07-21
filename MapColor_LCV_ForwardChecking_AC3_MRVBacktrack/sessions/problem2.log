@@ -1,0 +1,29 @@
+Script started on 2018-10-22 15:38:43-0400
+]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_580_HW2/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_580_HW2/src[00m$ python3 csp_driver2.py
+Solving map coloring problem with tree structured csp with cutset conditioning
+------------------------------------------------------------------------------
+Australia
+---------
+Cutset: ['SA']
+Tree: ['WA', 'V', 'NT', 'NSW', 'Q']
+Tree Solution Combined with Cutset Solution
+CSP: <csp.CSP object at 0x7f7ba2732240> with assignment: {'WA': 'R', 'NT': 'B', 'Q': 'R', 'NSW': 'B', 'V': 'R', 'SA': 'G'}
+ 
+France
+------
+Cutset: ['CE', 'FC', 'AU', 'IF', 'AQ', 'RA', 'BR']
+Tree: ['NO', 'AL', 'LO', 'BO', 'PA', 'LR', 'CA', 'MP', 'PI', 'LI', 'NH', 'PC', 'NB', 'PL']
+Tree Solution Combined with Cutset Solution
+CSP: <csp.CSP object at 0x7f7ba2739eb8> with assignment: {'AL': 'R', 'LO': 'B', 'CA': 'R', 'BO': 'B', 'PI': 'B', 'NO': 'R', 'NH': 'R', 'NB': 'B', 'PL': 'R', 'PC': 'B', 'LI': 'R', 'MP': 'B', 'LR': 'R', 'PA': 'B', 'FC': 'G', 'AQ': 'G', 'AU': 'G', 'CE': 'Y', 'RA': 'Y', 'IF': 'G', 'BR': 'G'}
+ 
+USA
+---
+Cutset: ['MO', 'TN', 'ID', 'CO', 'SD', 'PA', 'KY', 'MA', 'NV', 'OK', 'IA', 'GA', 'AR', 'MI', 'VA']
+Tree: ['ME', 'WA', 'NH', 'RI', 'VT', 'CT', 'NY', 'NJ', 'DE', 'OR', 'CA', 'AZ', 'UT', 'KA', 'NM', 'NE', 'WY', 'MT', 'ND', 'MN', 'FL', 'SC', 'AL', 'NC', 'TX', 'MS', 'LA', 'WI', 'IL', 'IN', 'OH', 'WV', 'DC', 'MD']
+Tree Solution Combined with Cutset Solution
+CSP: <csp.CSP object at 0x7f7ba1f1c358> with assignment: {'WA': 'R', 'OR': 'B', 'CA': 'R', 'AZ': 'B', 'UT': 'R', 'WY': 'B', 'NE': 'R', 'KA': 'B', 'MT': 'R', 'ND': 'B', 'MN': 'R', 'WI': 'B', 'IL': 'R', 'IN': 'B', 'OH': 'R', 'WV': 'B', 'MD': 'R', 'DE': 'B', 'NJ': 'R', 'NY': 'B', 'VT': 'R', 'NH': 'B', 'ME': 'R', 'CT': 'R', 'RI': 'B', 'DC': 'B', 'ID': 'G', 'NV': 'Y', 'CO': 'Y', 'SD': 'Y', 'OK': 'G', 'IA': 'G', 'MO': 'Y', 'AR': 'Y', 'KY': 'Y', 'TN': 'Y', 'MI': 'Y', 'GA': 'Y', 'PA': 'Y', 'VA': 'Y', 'MA': 'Y'}
+ 
+]0;lotek@lotek-laptop: ~/eclipse-workspace/Webb_580_HW2/src[01;32mlotek@lotek-laptop[00m:[01;34m~/eclipse-workspace/Webb_580_HW2/src[00m$ exit
+exit
+
+Script done on 2018-10-22 15:39:15-0400
